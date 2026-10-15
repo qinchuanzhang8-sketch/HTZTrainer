@@ -6,9 +6,12 @@ HumanitZ（UE4.27 僵尸生存）**单机离线**内置修改器，基于 UE4SS 
 
 | 线路 | 链接 |
 |---|---|
-| 🚀 国内极速（推荐） | https://fastly.jsdelivr.net/gh/qinchuanzhang8-sketch/HTZTrainer@main/HTZTrainer_v2.3.zip |
-| 国内备用 | https://gcore.jsdelivr.net/gh/qinchuanzhang8-sketch/HTZTrainer@main/HTZTrainer_v2.3.zip |
-| GitHub 直连 | 打开本仓库 → 点击 `HTZTrainer_v2.3.zip` → Download |
+| 🚀 推荐（jsDelivr 加速） | https://fastly.jsdelivr.net/gh/qinchuanzhang8-sketch/HTZTrainer@main/HTZTrainer_v2.3.zip |
+| 备用① （jsDelivr 节点2） | https://gcore.jsdelivr.net/gh/qinchuanzhang8-sketch/HTZTrainer@main/HTZTrainer_v2.3.zip |
+| 备用② （gh-proxy 反代） | https://gh-proxy.com/https://raw.githubusercontent.com/qinchuanzhang8-sketch/HTZTrainer/main/HTZTrainer_v2.3.zip |
+| 备用③ （GitHub 直连） | 本仓库点击 `HTZTrainer_v2.3.zip` → 右上 Download |
+
+> 某条线路慢或打不开时，请依次换下一条；文件完全一致（可校验 md5 `ca90ae1d7ffab1297cb9e2fc7539aef4`）。
 
 ## 功能一览
 
